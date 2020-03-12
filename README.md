@@ -11,3 +11,7 @@
 ### Day 1: March 11, 2020
 
 **Todays progress:** Started JavaScript basics.
+
+### Day 2: March 12, 2020
+
+**Todays progress:** Completed 68 exercises of Javascript in freeCodeCamp
